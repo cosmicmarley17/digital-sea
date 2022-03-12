@@ -7,6 +7,8 @@ Digital Sea is an ambient, generative music piece written in the Pure Data progr
 
 The algorithms used to generate the piece rely on randomness, so every run is unique and can produce infinite lengths of sound that never exactly repeat. You can listen to a unique, endless performance of *Digital Sea* by running this software on your own computer. You can even alter it by interacting with the buttons and sliders on the interface.
 
+If you'd like, you can buy a recording on my [Bandcamp](https://marleystarlight.bandcamp.com/album/digital-sea "Digital Sea | Marley Starlight") (name your price, lossless audio quality) or stream or download it on [alonetone](https://alonetone.com/marleystarlight/tracks/digital-sea "Digital Sea | Marley Starlight") (free mp3).
+
 ## How to install/run:
 
 1. Make sure you have [Pure Data](https://puredata.info/ "Pure Data official website") installed. It's a free & open-source program available for Linux, Mac, and Windows.
